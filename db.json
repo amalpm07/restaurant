@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Amal pm",
+      "email": "amaljr405@gmail.com",
+      "mobail": "9895980853",
+      "address": "k,kfkkfnjjnfnlkm",
+      "services": "jhbdsjdjkdf"
+    },
+    {
+      "id": 2,
+      "name": "Amal pm",
+      "email": "amaljr405@gmail.com",
+      "mobail": "9896086547",
+      "address": "jhjkjfjffknbfhkljdb",
+      "services": "o+"
+    }
+  ],
+  "signup": [
+    {
+      "name": "amal",
+      "email": "amalpm@gamil.com",
+      "mobail": "9895986453",
+      "password": "amalpm",
+      "id": 1
+    },
+    {
+      "name": "sayon",
+      "email": "sayon@gmail.com",
+      "mobail": "98654677888",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "akhil",
+      "email": "akhil@gmail.com",
+      "mobail": "9987657865",
+      "password": "akhil123",
+      "id": 3
+    },
+    {
+      "name": "saron",
+      "email": "saron@gmail.com",
+      "mobail": "1234567891",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "amal",
+      "email": "amalpm@gmail.com",
+      "mobail": "9895980842",
+      "password": "1234",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
